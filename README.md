@@ -1,8 +1,4 @@
-# robot-programming-project
-Final project for itmo robot programming course 
-
-
-Здесь будет находиться код для проекта по программировнию роботов.
+# Проект по программированию роботов
 
 Задача: 
 
@@ -10,7 +6,7 @@ Final project for itmo robot programming course
 
 Методика управления: 
 
-Как запустить: 
+# Как запустить: 
 
 Вариант 1: скачать .ipynb файл в src, запустить локально на своём устройстве. 
 
