@@ -11,6 +11,6 @@ Gym от компании OpenAI
 
 # Как запустить: 
 
-Вариант 1 локальный запуск на своём устройстве: скачать .ipynb файл в папке src **(появится позже)**
+Вариант 1 локальный запуск на своём устройстве: скачать файл src/Robot_programming_project.ipynb 
 
-Вариант 2 запустить в google colab: **(ссылка появится позже)**
+Вариант 2 запустить в google colab: https://colab.research.google.com/drive/16nQhej9EUEfVs0mgZ5fHvAF2j_mxIITx?usp=sharing
